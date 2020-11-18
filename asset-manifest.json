@@ -1,10 +1,10 @@
 {
   "files": {
     "main-614db18d.css": "/static/css/main-614db18d.a1b67e69.chunk.css",
-    "main-614db18d.js": "/main-614db18d.9d1311d6.chunk.js",
+    "main-614db18d.js": "/main-614db18d.ca8501b6.chunk.js",
     "main-970f9218.css": "/static/css/main-970f9218.d168087b.css",
-    "main-970f9218.js": "/main-970f9218.b7b54120.js",
-    "vendor-09281f7b.js": "/vendor-09281f7b.4e83a810.chunk.js",
+    "main-970f9218.js": "/main-970f9218.710af114.js",
+    "vendor-09281f7b.js": "/vendor-09281f7b.058fa638.chunk.js",
     "vendor-10e2e882.js": "/vendor-10e2e882.d89be1ac.chunk.js",
     "vendor-1d8c4c28.js": "/vendor-1d8c4c28.d2babace.chunk.js",
     "vendor-253ae210.js": "/vendor-253ae210.f36c9802.chunk.js",
@@ -57,7 +57,7 @@
     "vendor-72f93981.77315522.chunk.js",
     "vendor-db300d2f.a7bfcbbe.chunk.js",
     "vendor-7d359b94.5cf57fe1.chunk.js",
-    "vendor-09281f7b.4e83a810.chunk.js",
+    "vendor-09281f7b.058fa638.chunk.js",
     "vendor-9c5b28f6.f192876d.chunk.js",
     "vendor-93deb4be.30268b28.chunk.js",
     "vendor-9d49c8fe.dab83e59.chunk.js",
@@ -82,8 +82,8 @@
     "vendor-459124e0.8294478d.chunk.js",
     "vendor-ec8c427e.3ddc2d0c.chunk.js",
     "static/css/main-614db18d.a1b67e69.chunk.css",
-    "main-614db18d.9d1311d6.chunk.js",
+    "main-614db18d.ca8501b6.chunk.js",
     "static/css/main-970f9218.d168087b.css",
-    "main-970f9218.b7b54120.js"
+    "main-970f9218.710af114.js"
   ]
 }
